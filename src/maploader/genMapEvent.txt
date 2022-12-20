@@ -1,0 +1,1 @@
+objBrickEventFixed,-6737152,C:\Users\zoe_c\IdeaProjects\Choice\src\resources\images\objs\objBrickEventFixed.png,1,1

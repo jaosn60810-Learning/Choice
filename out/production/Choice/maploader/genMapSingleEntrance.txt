@@ -1,0 +1,2 @@
+playerOneDemo,-52429,C:\Users\zoe_c\IdeaProjects\Choice\src\resources\images\players\playerOneDemo.png,1,1
+playerTwoDemo,-13369549,C:\Users\zoe_c\IdeaProjects\Choice\src\resources\images\players\playerTwoDemo.png,1,1
